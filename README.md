@@ -6,7 +6,9 @@ This repository contains my Sublime Text 2 user settings.
 * [Install Package Control][2]
 * Clone this repository into the Sublime User settings directory:
 
-    git clone git@github.com:krohrbaugh/sublime-settings.git ~/Library/Application Support/Sublime Text 2/Packages/User
+```sh
+git clone git@github.com:krohrbaugh/sublime-settings.git ~/Library/Application Support/Sublime Text 2/Packages/User
+```
 
 * Restart Sublime
 
