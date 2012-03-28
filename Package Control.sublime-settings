@@ -1,0 +1,24 @@
+{
+	"auto_upgrade_last_run": 1332942339,
+	"installed_packages":
+	[
+		"Alignment",
+		"ChangeQuotes",
+		"CoffeeScript",
+		"DetectSyntax",
+		"Git",
+		"IndentGuides",
+		"jQuery",
+		"LiveReload",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Tag",
+		"VintageEx",
+		"ZenCoding"
+	]
+}

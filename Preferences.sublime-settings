@@ -1,0 +1,71 @@
+{
+	// Sets the colors used within the text area
+	"color_scheme": "Packages/User/Color Schemes/Tubster.tmTheme",
+
+	// Note that the font_face and font_size are overriden in the platform
+  // specific settings file, for example, "Preferences (Linux).sublime-settings".
+  // Because of this, setting them here will have no effect: you must set them
+  // in your User File Preferences.	
+	"font_face": "Inconsolata",
+	"font_size": 18,
+
+	// Columns in which to display vertical rulers
+  "rulers": [80],
+
+	// The number of spaces a tab is considered equal to
+	"tab_size": 2,
+
+	// Set to true to insert spaces when tab is pressed
+	"translate_tabs_to_spaces": true,
+
+	// Additional spacing at the top of each line, in pixels
+  "line_padding_top": 1,
+
+  // Additional spacing at the bottom of each line, in pixels
+  "line_padding_bottom": 1,
+
+  //
+  // User Interface Settings
+  //
+
+  // The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)
+	"theme": "Soda Dark.sublime-theme", 
+
+	// OS X 10.7 only: Set to true to disable Lion style full screen support.
+  // Sublime Text must be restarted for this to take effect.
+  "use_simple_full_screen": true,
+
+  //
+  // Application Behavior Settings
+  //
+
+  // Exiting the application with hot_exit enabled will cause it to close
+  // immediately without prompting. Unsaved modifications and open files will
+  // be preserved and restored when next starting.
+  //
+  // Closing a window with an associated project will also close the window
+  // without prompting, preserving unsaved changes in the workspace file
+  // alongside the project.
+  "hot_exit": false,
+
+  // remember_open_files makes the application start up with the last set of
+  // open files. Changing this to false will have no effect if hot_exit is
+  // true
+  "remember_open_files": false,
+
+  // folder_exclude_patterns and file_exclude_patterns control which files
+  // are listed in folders on the side bar. These can also be set on a per-
+  // project basis.
+  "folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"*sass-cache"
+	],
+
+	// List any packages to ignore here. When removing entries from this list,
+  // a restart may be required if the package contains plugins.kkkkk
+	"ignored_packages": []
+}
