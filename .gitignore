@@ -1,0 +1,6 @@
+# ------------------------------------------------------------------------------
+# .gitignore: Files to keep out of source control
+# ------------------------------------------------------------------------------
+
+# Package Control
+Package Control.sublime-settings
