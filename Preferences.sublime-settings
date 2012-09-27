@@ -8,8 +8,8 @@
 		"CVS",
 		"*sass-cache"
 	],
-	"font_face": "Inconsolata",
-	"font_size": 18,
+	"font_face": "Source Code Pro",
+	"font_size": 14,
 	"hot_exit": false,
 	"ignored_packages":
 	[
