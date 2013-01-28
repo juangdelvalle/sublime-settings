@@ -1,5 +1,8 @@
 {
-	"color_scheme": "Packages/User/Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Color Schemes/Code School 3.tmTheme",
+	// "color_scheme": "Packages/User/Color Schemes/Tomorrow-Night-Eighties.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -8,8 +11,9 @@
 		"CVS",
 		"*sass-cache"
 	],
-	"font_face": "Source Code Pro",
-	"font_size": 14,
+	"font_face": "Inconsolata-g",
+	"font_size": 14.0,
+	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -21,6 +25,7 @@
 	[
 		80
 	],
+	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
