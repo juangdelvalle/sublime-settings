@@ -5,8 +5,5 @@
 # Color Scheme caches
 *.tmTheme.cache
 
-# Package Control
-Package Control.sublime-settings
-
 # Last Runs
 *.last-run
